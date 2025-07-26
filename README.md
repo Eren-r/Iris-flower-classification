@@ -43,10 +43,3 @@ We chose two popular classification algorithms :
 - Highly accurate on well-structured datasets like Iris.
 
 These models help us explore both **linear** (Logistic Regression) and **non-linear** (KNN) decision boundaries — giving a well-rounded understanding of classification techniques.
-
-
-|     Accuracy Comparison     |
-|-----------------------------|
-| Logistic Regression | 0.97  |
-| KNN Classifier      | 0.96  |
-
