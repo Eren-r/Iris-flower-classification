@@ -1,0 +1,6 @@
+## 🔧 Requirements
+- Python 3.x
+- scikit-learn
+- pandas
+- seaborn
+- matplotlib
